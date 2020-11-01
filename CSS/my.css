@@ -1,0 +1,20 @@
+#inputWrapper {
+    padding-right: 6px;
+}
+
+#input {
+    width: 100%;
+}
+
+.dropdown p{
+    width: fit-content;
+    height: 25px;
+    padding: 3px;
+    background: lightgrey;
+}
+
+#output {
+    border: 1px solid black;
+    min-height: 40px;
+    padding: 2rem;
+}
